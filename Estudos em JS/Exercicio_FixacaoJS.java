@@ -21,7 +21,7 @@ public class exercicio_fixacao {
 		System.out.println();
 		
 		System.out.print("Record: ");
-		System.out.printf("%d yers old, code %d and gender: %s %n", age, code, gender);
+		System.out.printf("%d yers old, code %d and gender: %c %n", age, code, gender);
 		System.out.println();
 		
 		System.out.printf("Measue with eight decimal places: %.8f %n", measure);
