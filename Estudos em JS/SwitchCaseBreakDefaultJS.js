@@ -8,7 +8,8 @@ switch (fruta){
         console.log("suco de laranja")
         break       //para a execução de um "CASE"
     case "banana":
-        console.log("vitamina de banana")
+    case "morango":
+        console.log("vitamina")
         break       //para a execução de um "CASE"
     case "maçã":
         console.log("suco de maçã")
